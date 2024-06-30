@@ -1,0 +1,16 @@
+{
+    "Database": {
+        "Host": "host",
+        "Database": "db",
+        "User": "user",
+        "Port": 5432,
+        "PW": "pw"
+    },
+    "Mqtt": {
+        "Host": "MQttHost",
+        "User": "userMQTT",
+        "PW": "PWMqtt",
+        "Port": 1883,
+        "tls": false
+    }
+}
